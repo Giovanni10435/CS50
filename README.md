@@ -1,5 +1,8 @@
 # CS50 - Giovanni Barreiro
-Curso de Introdução a Ciência da Computação CS50 de Harvard --> Aproximadamende 2021
+
+## Web Programming with Python and JavaScript
+
+Curso gratuito online de Introdução a Ciência da Computação CS50 de Harvard --> Aproximadamende 2021
 
 ### Conteúdo 
 
